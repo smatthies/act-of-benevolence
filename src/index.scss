@@ -1,0 +1,10 @@
+@import "./styles/_variables.scss";
+
+body {
+  margin: 0;
+  font-family: $baseFontFamily;
+}
+
+a {
+  cursor: url("./assets/starmouse.png"), auto;
+}

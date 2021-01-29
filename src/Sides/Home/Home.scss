@@ -1,0 +1,27 @@
+.home {
+  height: 80vh;
+  display: flex;
+
+  .link {
+    height: inherit;
+    width: 50%;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+  }
+
+  .stories {
+    background-image: url("../../assets/stories.jpg");
+    background-size: cover;
+    background-position: center;
+    justify-content: flex-end;
+  }
+  .tshirts {
+    background-image: url("../../assets/tshirts.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+}

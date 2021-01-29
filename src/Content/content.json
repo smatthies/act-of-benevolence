@@ -1,0 +1,41 @@
+{
+    "tshirts" : [ 
+        {
+            "id": "yallah",
+            "date":"2020",
+            "mainImage":"yallah_1.jpg",
+            "secondaryImage":"yallah_2.jpg" 
+        },
+        {
+            "id": "beirut",
+            "date":"2020",
+            "mainImage":"xxx.jpg",
+            "secondaryImage":"yyy.jpg" 
+        },
+        {
+            "id": "icetea",
+            "date":"2020",
+            "mainImage":"xxx.jpg",
+            "secondaryImage":"yyy.jpg" 
+        }
+    ],
+    "books" : [ 
+        {
+            "id": "book1",
+            "date":"2020",
+            "mainImage":"xxx.jpg",
+            "secondaryImage":"yyy.jpg" 
+        },
+        {
+            "id": "book2",
+            "date":"2020",
+            "mainImage":"xxx.jpg",
+            "secondaryImage":"yyy.jpg" 
+        },{
+            "id": "book3",
+            "date":"2020",
+            "mainImage":"xxx.jpg",
+            "secondaryImage":"yyy.jpg" 
+        }
+    ]
+}
