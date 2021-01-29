@@ -14,7 +14,7 @@ function App() {
     <Router>
       <IntlProviderWrapper>
         <div className="App">
-          <Header zahl1="1" zahl2="2" />
+          <Header/>
           <Nav />
           <Switch>
             <Route path="/tshirts" component={Tshirts} />
