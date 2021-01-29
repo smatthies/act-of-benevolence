@@ -6,6 +6,7 @@ import Home from "./Sides/Home/Home";
 import Tshirts from "./Sides/Tshirts/Tshirts";
 import Books from "./Sides/Books/Books";
 import IntlProviderWrapper from "./Components/IntlProviderWrapper/IntlProviderWrapper";
+import DetailsView from "./Sides/DetailsView/DetailsView";
 
 function App() {
   const Error404 = () => <h1>404 – Seite nicht gefunden</h1>;
@@ -17,8 +18,9 @@ function App() {
           <Header zahl1="1" zahl2="2" />
           <Nav />
           <Switch>
-            <Route path="/tshirts" component={Tshirts} />
+            <Route exact path="/tshirts" component={Tshirts} />
             <Route path="/books" component={Books} />
+            <Route path="/:elements/:id" children={<DetailsView />} />
             <Route exact path="/" component={Home} />
             <Route component={Error404} />
           </Switch>

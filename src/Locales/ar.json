@@ -1,9 +1,18 @@
-{"title": "wallah",
-    "menu.books":"الكتب",
-    "tshirts.yallah.title" :"YALLAH TSHIRT",
-    "tshirts.yallah.text" :"YALLAH TSHIRT TEXT",
-    "tshirts.beirut.title" :"BEIRUT TSHIRT",
-    "tshirts.beirut.text" :"BEIRUT TSHIRT TEXT",
-    "tshirts.icetea.title" :"ICE TEA TSHIRT TEXT",
-    "tshirts.icetea.text" :"ARABIC WORD FOR ICE TEA"
-}
+{
+    "title": "hi",
+    "menu.stories":"stories",
+    "menu.events":"events",
+    "menu.tshirts":"tshirts",
+    "menu.videos":"videos",
+    "menu.books":"books",
+    "menu.whereTheMoneyGoes":"كيف نتعامل مع المصاري/النقود",
+    "tshirts.yallah.title" :"A.O.B. X YALLAH! CLUB ",
+    "tshirts.yallah.text" :"During one of YALLAH! CLUB’s fashion workshops the children were asked to draw their vision of Palestine. One of the children made a design that says: “not like this ” in Arabic. The “not like this” T-shirt represents the misconceptions about Palestine, a country held under Israeli occupation.",
+    "tshirts.beirut.title" :"A.O.B. X Beirut Relief",
+    "tshirts.beirut.text" :"On the 4th of August 2020 explosions took place in Beirut, Lebanon, a place we hold dearly. The process of creating something for Beirut was in our minds already due to the country's economic crisis but the explosion accelerated this process. A family member of ours in the United States created the design of the word Beirut and our Rebecca worked out the design. ",
+    "tshirts.zeroZero.title" :"A.O.B. X ZEROZERO",
+    "tshirts.zeroZero.text" :"For our very first fundraising campaign we collaborated with ZEROZERO. Before we got to Palestine we wanted to raise money to contribute to local initiatives in a creative manner. We started to work with friends, family and creatives who simply support the cause. Every T-shirt is unique.",
+    "books.onANightOut.title":"‘On a night out in Palestine, I met Faiza.’ ",
+    "books.onANightOut.text":"Faiza welcomed me into her life and introduced me to the best of her city. Through a conversation she allowed me to understand how the occupation affects her daily life. With every vegetable she consumes, where she is able to study, or how far she can travel from ‘home’. Faiza’s story is a microcosm of what happens in Palestine. This story is one example of how Israeli occupation affects Palestinian individuals."
+    }
+    

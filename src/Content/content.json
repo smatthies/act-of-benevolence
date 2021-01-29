@@ -13,7 +13,7 @@
             "secondaryImage":"yyy.jpg" 
         },
         {
-            "id": "icetea",
+            "id": "zeroZero",
             "date":"2020",
             "mainImage":"xxx.jpg",
             "secondaryImage":"yyy.jpg" 
@@ -21,18 +21,7 @@
     ],
     "books" : [ 
         {
-            "id": "book1",
-            "date":"2020",
-            "mainImage":"xxx.jpg",
-            "secondaryImage":"yyy.jpg" 
-        },
-        {
-            "id": "book2",
-            "date":"2020",
-            "mainImage":"xxx.jpg",
-            "secondaryImage":"yyy.jpg" 
-        },{
-            "id": "book3",
+            "id": "onANightOut",
             "date":"2020",
             "mainImage":"xxx.jpg",
             "secondaryImage":"yyy.jpg" 
