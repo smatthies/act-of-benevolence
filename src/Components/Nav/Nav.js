@@ -1,16 +1,22 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { useIntl } from "react-intl";
 import "./Nav.scss";
 
-const Nav = () => (
-  <nav className="nav">
-    <Link to="/stories">stories</Link>
-    <Link to="/events">events</Link>
-    <Link to="/tshirts">tshirts</Link>
-    <Link to="/videos">videos</Link>
-    <Link to="/books">books</Link>
-    <Link to="/wtmg">where the money goes</Link>
-  </nav>
-);
+const Nav = () => {
+  const intl = useIntl();
+  return (
+    <nav className="nav">
+      <Link to="/stories">{intl.formatMessage({ id: "menu.stories" })}</Link>
+      <Link to="/events">{intl.formatMessage({ id: "menu.events" })}</Link>
+      <Link to="/tshirts">{intl.formatMessage({ id: "menu.tshirts" })}</Link>
+      <Link to="/videos">{intl.formatMessage({ id: "menu.videos" })}</Link>
+      <Link to="/books">{intl.formatMessage({ id: "menu.books" })}</Link>
+      <Link to="/wtmg">
+        {intl.formatMessage({ id: "menu.whereTheMoneyGoes" })}
+      </Link>
+    </nav>
+  );
+};
 
 export default Nav;

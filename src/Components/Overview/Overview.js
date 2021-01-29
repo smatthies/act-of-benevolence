@@ -11,7 +11,6 @@ const Overview = (props) => {
     return (
       <Link to={`/${elements}/${element.id}`}>
         <div className="element" key={element.id}>
-          {element.id} <br />
           {intl.formatMessage({ id: `${elements}.${element.id}.text` })}
         </div>
       </Link>
