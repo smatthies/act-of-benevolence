@@ -1,21 +1,39 @@
 {
     "tshirts" : [ 
         {
-            "id": "yallah",
+            "id": "xBeirutLong",
             "date":"2020",
-            "mainImage":"yallah_1.jpg",
+            "mainImage":"xBeirut_Long.png",
             "secondaryImage":"yallah_2.jpg" 
         },
         {
-            "id": "beirut",
+            "id": "xBeirutShort",
             "date":"2020",
-            "mainImage":"xxx.jpg",
+            "mainImage":"xBeirut_Short.png",
             "secondaryImage":"yyy.jpg" 
         },
         {
-            "id": "zeroZero",
+            "id": "xYallahAmari",
             "date":"2020",
-            "mainImage":"xxx.jpg",
+            "mainImage":"xYallah_amari.png",
+            "secondaryImage":"yyy.jpg" 
+        },
+        {
+            "id": "xYallahBlack",
+            "date":"2020",
+            "mainImage":"xYallah_black.png",
+            "secondaryImage":"yyy.jpg" 
+        },
+        {
+            "id": "xYallahMisheikHorizontal",
+            "date":"2020",
+            "mainImage":"xYallah_misheik_h.png",
+            "secondaryImage":"yyy.jpg" 
+        },
+        {
+            "id": "xYallahMisheikVertical",
+            "date":"2020",
+            "mainImage":"xYallah_misheik_v.png",
             "secondaryImage":"yyy.jpg" 
         }
     ],
@@ -23,7 +41,13 @@
         {
             "id": "onANightOut",
             "date":"2020",
-            "mainImage":"xxx.jpg",
+            "mainImage":"yallah_1.jpg",
+            "secondaryImage":"yyy.jpg" 
+        },
+        {
+            "id": "onANightOut",
+            "date":"2020",
+            "mainImage":"yallah_1.jpg",
             "secondaryImage":"yyy.jpg" 
         }
     ]
