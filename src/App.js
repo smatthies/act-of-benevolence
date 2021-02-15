@@ -22,6 +22,8 @@ function App() {
             <Route path="/books" component={Books} />
             <Route path="/:elements/:id" children={<DetailsView />} />
             <Route exact path="/" component={Home} />
+            {/* //only for github pages */}
+            <Route path="/act-of-benevolence" component={Home} />
             <Route component={Error404} />
           </Switch>
         </div>
