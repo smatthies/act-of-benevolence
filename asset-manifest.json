@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/act-of-benevolence/static/css/main.6a176b34.chunk.css",
+    "main.js": "/act-of-benevolence/static/js/main.f1b50918.chunk.js",
+    "main.js.map": "/act-of-benevolence/static/js/main.f1b50918.chunk.js.map",
+    "runtime-main.js": "/act-of-benevolence/static/js/runtime-main.31999552.js",
+    "runtime-main.js.map": "/act-of-benevolence/static/js/runtime-main.31999552.js.map",
+    "static/js/2.574b67f8.chunk.js": "/act-of-benevolence/static/js/2.574b67f8.chunk.js",
+    "static/js/2.574b67f8.chunk.js.map": "/act-of-benevolence/static/js/2.574b67f8.chunk.js.map",
+    "static/js/3.d4532ba7.chunk.js": "/act-of-benevolence/static/js/3.d4532ba7.chunk.js",
+    "static/js/3.d4532ba7.chunk.js.map": "/act-of-benevolence/static/js/3.d4532ba7.chunk.js.map",
+    "index.html": "/act-of-benevolence/index.html",
+    "static/css/main.6a176b34.chunk.css.map": "/act-of-benevolence/static/css/main.6a176b34.chunk.css.map",
+    "static/js/2.574b67f8.chunk.js.LICENSE.txt": "/act-of-benevolence/static/js/2.574b67f8.chunk.js.LICENSE.txt",
+    "static/media/logo.aedd1988.png": "/act-of-benevolence/static/media/logo.aedd1988.png",
+    "static/media/Home.scss": "/act-of-benevolence/static/media/tshirts.058a5675.jpg",
+    "static/media/xBeirut_Long.png": "/act-of-benevolence/static/media/xBeirut_Long.43a26fd4.png",
+    "static/media/xBeirut_Long_hover.jpg": "/act-of-benevolence/static/media/xBeirut_Long_hover.9f018cdd.jpg",
+    "static/media/xBeirut_Short.png": "/act-of-benevolence/static/media/xBeirut_Short.6308a12d.png",
+    "static/media/xBeirut_Short_hover.jpg": "/act-of-benevolence/static/media/xBeirut_Short_hover.f7af2be0.jpg",
+    "static/media/xYallah_amari.png": "/act-of-benevolence/static/media/xYallah_amari.8b379894.png",
+    "static/media/xYallah_amari_hover.jpg": "/act-of-benevolence/static/media/xYallah_amari_hover.9d61bebc.jpg",
+    "static/media/xYallah_black.png": "/act-of-benevolence/static/media/xYallah_black.8c01a716.png",
+    "static/media/xYallah_black_hover.jpg": "/act-of-benevolence/static/media/xYallah_black_hover.4d0dcfef.jpg",
+    "static/media/xYallah_misheik_h.png": "/act-of-benevolence/static/media/xYallah_misheik_h.609412f2.png",
+    "static/media/xYallah_misheik_h_hover.jpg": "/act-of-benevolence/static/media/xYallah_misheik_h_hover.73cc2f99.jpg",
+    "static/media/xYallah_misheik_v.png": "/act-of-benevolence/static/media/xYallah_misheik_v.44c83cc1.png",
+    "static/media/xYallah_misheik_v_hover.jpg": "/act-of-benevolence/static/media/xYallah_misheik_v_hover.dbde7e3b.jpg",
+    "static/media/xZerozero.png": "/act-of-benevolence/static/media/xZerozero.ca4137e6.png",
+    "static/media/xZerozero_hover.jpg": "/act-of-benevolence/static/media/xZerozero_hover.8b044f12.jpg",
+    "static/media/yallah_1.jpg": "/act-of-benevolence/static/media/yallah_1.8f385d2e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31999552.js",
+    "static/js/2.574b67f8.chunk.js",
+    "static/css/main.6a176b34.chunk.css",
+    "static/js/main.f1b50918.chunk.js"
+  ]
+}
