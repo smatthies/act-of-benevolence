@@ -13,17 +13,28 @@ function Overview(props) {
 
   useEffect(() => {
     const loadedOverviewElements = [];
+    const images = require.context("../../assets/content", true);
     const imgStyles = {
       height: "inherit",
     };
-    const images = require.context("../../assets/content", true);
     content[elements].forEach((element) => {
       const mainImage = images(`./${element.mainImage}`);
+      const secondaryImage = images(`./${element.secondaryImage}`);
 
       loadedOverviewElements.push(
         <Link to={`/${elements}/${element.id}`} key={element.id}>
           <div className="element" key={element.id}>
-            <img src={mainImage.default} alt={mainImage} style={imgStyles} />
+            <img
+              className="main-image"
+              src={mainImage.default}
+              alt=""
+              style={imgStyles}
+            />
+            <img
+              className="secondary-image"
+              src={secondaryImage.default}
+              alt=""
+            ></img>
           </div>
         </Link>
       );

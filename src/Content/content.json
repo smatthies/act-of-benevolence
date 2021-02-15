@@ -4,50 +4,50 @@
             "id": "xBeirutLong",
             "date":"2020",
             "mainImage":"xBeirut_Long.png",
-            "secondaryImage":"yallah_2.jpg" 
+            "secondaryImage":"xBeirut_Long_hover.jpg" 
         },
         {
             "id": "xBeirutShort",
             "date":"2020",
             "mainImage":"xBeirut_Short.png",
-            "secondaryImage":"yyy.jpg" 
+            "secondaryImage":"xBeirut_Short_hover.jpg" 
         },
         {
             "id": "xYallahAmari",
             "date":"2020",
             "mainImage":"xYallah_amari.png",
-            "secondaryImage":"yyy.jpg" 
+            "secondaryImage":"xYallah_amari_hover.jpg" 
         },
         {
             "id": "xYallahBlack",
             "date":"2020",
             "mainImage":"xYallah_black.png",
-            "secondaryImage":"yyy.jpg" 
+            "secondaryImage":"xYallah_black_hover.jpg" 
         },
         {
             "id": "xYallahMisheikHorizontal",
             "date":"2020",
             "mainImage":"xYallah_misheik_h.png",
-            "secondaryImage":"yyy.jpg" 
+            "secondaryImage":"xYallah_misheik_h_hover.jpg" 
         },
         {
             "id": "xYallahMisheikVertical",
             "date":"2020",
             "mainImage":"xYallah_misheik_v.png",
-            "secondaryImage":"yyy.jpg" 
+            "secondaryImage":"xYallah_misheik_v_hover.jpg" 
+        },
+        {
+            "id": "xZeroZero",
+            "date":"2020",
+            "mainImage":"xZerozero.png",
+            "secondaryImage":"xZerozero_hover.jpg" 
         }
     ],
     "books" : [ 
         {
             "id": "onANightOut",
             "date":"2020",
-            "mainImage":"yallah_1.jpg",
-            "secondaryImage":"yyy.jpg" 
-        },
-        {
-            "id": "onANightOut",
-            "date":"2020",
-            "mainImage":"yallah_1.jpg",
+            "mainImage":"xx.jpg",
             "secondaryImage":"yyy.jpg" 
         }
     ]

@@ -39,7 +39,7 @@ class IntlProviderWrapper extends React.Component {
           messages={messages}
           defaultLocale="en"
         >
-          {children}
+          <div lang={locale}>{children}</div>
         </IntlProvider>
       </Context.Provider>
     );
