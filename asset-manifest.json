@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/act-of-benevolence/static/css/main.f8cc141b.chunk.css",
-    "main.js": "/act-of-benevolence/static/js/main.f1199f04.chunk.js",
-    "main.js.map": "/act-of-benevolence/static/js/main.f1199f04.chunk.js.map",
+    "main.js": "/act-of-benevolence/static/js/main.e1004875.chunk.js",
+    "main.js.map": "/act-of-benevolence/static/js/main.e1004875.chunk.js.map",
     "runtime-main.js": "/act-of-benevolence/static/js/runtime-main.40a1e56f.js",
     "runtime-main.js.map": "/act-of-benevolence/static/js/runtime-main.40a1e56f.js.map",
     "static/js/2.14e96a99.chunk.js": "/act-of-benevolence/static/js/2.14e96a99.chunk.js",
@@ -50,6 +50,6 @@
     "static/js/runtime-main.40a1e56f.js",
     "static/js/2.14e96a99.chunk.js",
     "static/css/main.f8cc141b.chunk.css",
-    "static/js/main.f1199f04.chunk.js"
+    "static/js/main.e1004875.chunk.js"
   ]
 }
