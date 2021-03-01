@@ -8,10 +8,10 @@ const Home = () => {
   return (
     <div className="home">
       <Link className="link stories" to="/stories">
-        <div>stories</div>
+        <div>{intl.formatMessage({ id: "menu.stories" })}</div>
       </Link>
       <Link className="link tshirts" to="/tshirts">
-        <div>{intl.formatMessage({ id: "menu.tshirts" })}</div>
+        <div>{intl.formatMessage({ id: "menu.toWear" })}</div>
       </Link>
     </div>
   );

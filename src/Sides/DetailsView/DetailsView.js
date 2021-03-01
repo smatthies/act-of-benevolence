@@ -12,7 +12,6 @@ function DetailsView() {
   const contentElements = content[elements];
   const element = contentElements.find((element) => element.id === id);
   const mainImage = images(`./${element.mainImage}`);
-  console.log(intl.locale);
   return (
     <div className="details-view">
       <div className="carousel">

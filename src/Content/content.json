@@ -1,53 +1,53 @@
 {
-    "tshirts" : [ 
+    "toWear" : [ 
         {
             "id": "xBeirutLong",
             "date":"2020",
-            "mainImage":"xBeirut_Long.png",
-            "secondaryImage":"xBeirut_Long_hover.jpg" 
+            "mainImage":"xBeirut_Longsleeve_product.jpg",
+            "secondaryImage":"xBeirut_Longsleeve_hoveover.jpg" 
         },
         {
             "id": "xBeirutShort",
             "date":"2020",
-            "mainImage":"xBeirut_Short.png",
-            "secondaryImage":"xBeirut_Short_hover.jpg" 
+            "mainImage":"xBeirut_shortsleeve_product.jpg",
+            "secondaryImage":"xBeirut_shortsleeve_hoveover.jpg" 
         },
         {
             "id": "xYallahAmari",
             "date":"2020",
-            "mainImage":"xYallah_amari.png",
-            "secondaryImage":"xYallah_amari_hover.jpg" 
+            "mainImage":"xYALLAH_Amari_product.jpg",
+            "secondaryImage":"xYALLAH_Amari_hoveover.jpg" 
         },
         {
             "id": "xYallahBlack",
             "date":"2020",
-            "mainImage":"xYallah_black.png",
-            "secondaryImage":"xYallah_black_hover.jpg" 
+            "mainImage":"xYALLAH_MisheikBlack_product.jpg",
+            "secondaryImage":"xYALLAH_MisheikBlack_Hoveover.jpg" 
         },
         {
             "id": "xYallahMisheikHorizontal",
             "date":"2020",
-            "mainImage":"xYallah_misheik_h.png",
-            "secondaryImage":"xYallah_misheik_h_hover.jpg" 
+            "mainImage":"xYALLAH_MisheikhorizontalW_product.jpg",
+            "secondaryImage":"xYALLAH_MisheikhorizontalW_hoveover.jpg" 
         },
         {
             "id": "xYallahMisheikVertical",
             "date":"2020",
-            "mainImage":"xYallah_misheik_v.png",
-            "secondaryImage":"xYallah_misheik_v_hover.jpg" 
+            "mainImage":"xYALLAH_MisheikVerticalW_product.jpg",
+            "secondaryImage":"xYALLAH_MisheikVerticalW_hoveover.jpg" 
         },
         {
             "id": "xZeroZero",
             "date":"2020",
-            "mainImage":"xZerozero.png",
-            "secondaryImage":"xZerozero_hover.jpg" 
+            "mainImage":"xzerozero_product.jpg",
+            "secondaryImage":"xzerozero_hoveover.jpg" 
         }
     ],
-    "books" : [ 
+    "toRead" : [ 
         {
             "id": "onANightOut",
             "date":"2020",
-            "mainImage":"xx.jpg",
+            "mainImage":"Onanightout_Product.jpg",
             "secondaryImage":"yyy.jpg" 
         }
     ]

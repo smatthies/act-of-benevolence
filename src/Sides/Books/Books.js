@@ -1,10 +1,22 @@
 import React from "react";
-import Overview from "../../Components/Overview/Overview";
+import DetailsViewComponent from "../../Components/DetailsViewComponent/DetailsViewComponent";
 
 const Books = () => {
+  const downloadPDF = (
+    <a
+      href={process.env.PUBLIC_URL + "/Onanightout_FullBook.pdf"}
+      target="blank"
+    >
+      Download PDF
+    </a>
+  );
   return (
     <div>
-      <Overview elements="books"></Overview>
+      <DetailsViewComponent
+        elements="toRead"
+        id="onANightOut"
+        additionalContent={downloadPDF}
+      ></DetailsViewComponent>
     </div>
   );
 };

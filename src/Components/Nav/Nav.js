@@ -9,12 +9,10 @@ const Nav = () => {
     <nav className="nav">
       <Link to="/stories">{intl.formatMessage({ id: "menu.stories" })}</Link>
       <Link to="/events">{intl.formatMessage({ id: "menu.events" })}</Link>
-      <Link to="/tshirts">{intl.formatMessage({ id: "menu.tshirts" })}</Link>
-      <Link to="/videos">{intl.formatMessage({ id: "menu.videos" })}</Link>
-      <Link to="/books">{intl.formatMessage({ id: "menu.books" })}</Link>
-      <Link to="/wtmg">
-        {intl.formatMessage({ id: "menu.whereTheMoneyGoes" })}
-      </Link>
+      <Link to="/toWear">{intl.formatMessage({ id: "menu.toWear" })}</Link>
+      <Link to="/toWatch">{intl.formatMessage({ id: "menu.toWatch" })}</Link>
+      <Link to="/toRead">{intl.formatMessage({ id: "menu.toRead" })}</Link>
+      <Link to="/partners">{intl.formatMessage({ id: "menu.partners" })}</Link>
     </nav>
   );
 };

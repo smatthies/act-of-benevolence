@@ -32,7 +32,7 @@
       }
     }
     .secondary-image {
-      object-fit: cover;
+      object-fit: contain;
       object-position: center;
       position: absolute;
       top: 0;
@@ -45,5 +45,9 @@
 
   .list {
     list-style-type: none;
+  }
+
+  .overview-text {
+    text-align: center;
   }
 }

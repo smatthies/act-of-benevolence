@@ -4,7 +4,7 @@ import Overview from "../../Components/Overview/Overview";
 const Tshirts = () => {
   return (
     <div>
-      <Overview elements="tshirts"></Overview>
+      <Overview elements="toWear"></Overview>
     </div>
   );
 };

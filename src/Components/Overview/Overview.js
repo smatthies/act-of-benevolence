@@ -22,21 +22,28 @@ function Overview(props) {
       const secondaryImage = images(`./${element.secondaryImage}`);
 
       loadedOverviewElements.push(
-        <Link to={`/${elements}/${element.id}`} key={element.id}>
-          <div className="element" key={element.id}>
-            <img
-              className="main-image"
-              src={mainImage.default}
-              alt=""
-              style={imgStyles}
-            />
-            <img
-              className="secondary-image"
-              src={secondaryImage.default}
-              alt=""
-            ></img>
+        <>
+          <Link to={`/${elements}/${element.id}`} key={element.id}>
+            <div className="element" key={element.id}>
+              <img
+                className="main-image"
+                src={mainImage.default}
+                alt=""
+                style={imgStyles}
+              />
+              <img
+                className="secondary-image"
+                src={secondaryImage.default}
+                alt=""
+              ></img>
+            </div>
+          </Link>
+          <div className="overview-text">
+            {intl.formatMessage({
+              id: `${elements}.${element.id}.overviewText`,
+            })}
           </div>
-        </Link>
+        </>
       );
       setOverviewElements(loadedOverviewElements.slice());
     });
