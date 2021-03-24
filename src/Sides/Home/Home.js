@@ -10,7 +10,7 @@ const Home = () => {
       <Link className="link stories" to="/stories">
         <div>{intl.formatMessage({ id: "menu.stories" })}</div>
       </Link>
-      <Link className="link tshirts" to="/tshirts">
+      <Link className="link tshirts" to="/toWear">
         <div>{intl.formatMessage({ id: "menu.toWear" })}</div>
       </Link>
     </div>
