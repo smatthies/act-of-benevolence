@@ -3,7 +3,11 @@
   justify-content: center;
 
   p {
-    width: 40vw;
+    width: 34vw;
     line-height: 1.5;
   }
+}
+
+.alignTextRight > * {
+  text-align: right;
 }
