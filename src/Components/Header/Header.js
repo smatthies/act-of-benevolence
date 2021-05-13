@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <header className="header">
       <button className="language-switch" onClick={switchLanguage}>
-        english*arabic
+        English * اَلْعَرَبِيَّةُ
       </button>
       <Link to="/">
         <img alt="" src={logo} className="logo" />
