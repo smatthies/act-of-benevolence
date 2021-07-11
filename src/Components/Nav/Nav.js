@@ -7,7 +7,7 @@ const Nav = () => {
   const intl = useIntl();
   return (
     <nav className="nav">
-      <Link to="/stories">{intl.formatMessage({ id: "menu.stories" })}</Link>
+      <Link to="/aboutUs">{intl.formatMessage({ id: "menu.aboutUs" })}</Link>
       <Link to="/events">{intl.formatMessage({ id: "menu.events" })}</Link>
       <Link to="/toWear">{intl.formatMessage({ id: "menu.toWear" })}</Link>
       <Link to="/toWatch">{intl.formatMessage({ id: "menu.toWatch" })}</Link>

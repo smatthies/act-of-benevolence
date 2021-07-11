@@ -1,7 +1,7 @@
 import React from "react";
 import { useIntl } from "react-intl";
 
-const Stories = () => {
+const AboutUs = () => {
   const intl = useIntl();
   const style = {
     margin: "40px",
@@ -9,4 +9,4 @@ const Stories = () => {
   return <div style={style}>{intl.formatMessage({ id: "comingSoon" })}</div>;
 };
 
-export default Stories;
+export default AboutUs;

@@ -7,8 +7,8 @@ const Home = () => {
   const intl = useIntl();
   return (
     <div className="home">
-      <Link className="link stories" to="/stories">
-        <div>{intl.formatMessage({ id: "menu.stories" })}</div>
+      <Link className="link stories" to="/partners">
+        <div>{intl.formatMessage({ id: "menu.partners" })}</div>
       </Link>
       <Link className="link tshirts" to="/toWear">
         <div>{intl.formatMessage({ id: "menu.toWear" })}</div>

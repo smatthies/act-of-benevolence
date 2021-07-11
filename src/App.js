@@ -8,7 +8,7 @@ import Tshirts from "./Sides/Tshirts/Tshirts";
 import Books from "./Sides/Books/Books";
 import IntlProviderWrapper from "./Components/IntlProviderWrapper/IntlProviderWrapper";
 import DetailsView from "./Sides/DetailsView/DetailsView";
-import Stories from "./Sides/Stories/Stories";
+import AboutUs from "./Sides/AboutUs/AboutUs";
 import Events from "./Sides/Events/Events";
 import Videos from "./Sides/Videos/Videos";
 
@@ -23,7 +23,7 @@ function App() {
           <Nav />
           <Switch>
             <Route exact path="/toWear" component={Tshirts} />
-            <Route exact path="/stories" component={Stories} />
+            <Route exact path="/aboutUs" component={AboutUs} />
             <Route path="/toRead" component={Books} />
             <Route path="/events" component={Events} />
             <Route path="/partners" component={Partners} />
