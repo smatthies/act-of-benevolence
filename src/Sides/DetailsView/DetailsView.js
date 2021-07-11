@@ -4,6 +4,7 @@ import { useParams } from "react-router-dom";
 import content from "../../Content/content.json";
 import { useIntl } from "react-intl";
 import clsx from "clsx";
+import Carousel from "../../Components/Carousel";
 
 function DetailsView() {
   let { elements, id } = useParams();
@@ -11,11 +12,12 @@ function DetailsView() {
   const images = require.context("../../assets/content", true);
   const contentElements = content[elements];
   const element = contentElements.find((element) => element.id === id);
-  const mainImage = images(`./${element.mainImage}`);
+  const imagesToGet = element.images;
+  const carouselImages = imagesToGet.map((x) => images(`./${x}`).default);
   return (
     <div className="details-view">
       <div className="carousel">
-        <img src={mainImage.default} alt={mainImage} />
+        <Carousel images={carouselImages} />
       </div>
       <div className={clsx("info", intl.locale === "ar" && "alignTextRight")}>
         <span>{element.date}</span>

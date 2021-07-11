@@ -12,6 +12,7 @@
     "react": "latest",
     "react-dom": "latest",
     "react-intl": "^5.10.9",
+    "react-responsive-carousel": "^3.2.19",
     "react-router-dom": "latest",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
