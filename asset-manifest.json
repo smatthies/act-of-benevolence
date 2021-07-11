@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/act-of-benevolence/static/css/main.ba2a0307.chunk.css",
-    "main.js": "/act-of-benevolence/static/js/main.8be65adf.chunk.js",
-    "main.js.map": "/act-of-benevolence/static/js/main.8be65adf.chunk.js.map",
-    "runtime-main.js": "/act-of-benevolence/static/js/runtime-main.88ed242c.js",
-    "runtime-main.js.map": "/act-of-benevolence/static/js/runtime-main.88ed242c.js.map",
-    "static/js/2.34b9dc17.chunk.js": "/act-of-benevolence/static/js/2.34b9dc17.chunk.js",
-    "static/js/2.34b9dc17.chunk.js.map": "/act-of-benevolence/static/js/2.34b9dc17.chunk.js.map",
-    "static/js/3.19a996ae.chunk.js": "/act-of-benevolence/static/js/3.19a996ae.chunk.js",
-    "static/js/3.19a996ae.chunk.js.map": "/act-of-benevolence/static/js/3.19a996ae.chunk.js.map",
+    "main.css": "/act-of-benevolence/static/css/main.e579cc67.chunk.css",
+    "main.js": "/act-of-benevolence/static/js/main.97d52adb.chunk.js",
+    "main.js.map": "/act-of-benevolence/static/js/main.97d52adb.chunk.js.map",
+    "runtime-main.js": "/act-of-benevolence/static/js/runtime-main.2c6665b5.js",
+    "runtime-main.js.map": "/act-of-benevolence/static/js/runtime-main.2c6665b5.js.map",
+    "static/css/2.4ce9e501.chunk.css": "/act-of-benevolence/static/css/2.4ce9e501.chunk.css",
+    "static/js/2.06e458e9.chunk.js": "/act-of-benevolence/static/js/2.06e458e9.chunk.js",
+    "static/js/2.06e458e9.chunk.js.map": "/act-of-benevolence/static/js/2.06e458e9.chunk.js.map",
+    "static/js/3.1d7682af.chunk.js": "/act-of-benevolence/static/js/3.1d7682af.chunk.js",
+    "static/js/3.1d7682af.chunk.js.map": "/act-of-benevolence/static/js/3.1d7682af.chunk.js.map",
     "index.html": "/act-of-benevolence/index.html",
-    "static/css/main.ba2a0307.chunk.css.map": "/act-of-benevolence/static/css/main.ba2a0307.chunk.css.map",
-    "static/js/2.34b9dc17.chunk.js.LICENSE.txt": "/act-of-benevolence/static/js/2.34b9dc17.chunk.js.LICENSE.txt",
+    "static/css/2.4ce9e501.chunk.css.map": "/act-of-benevolence/static/css/2.4ce9e501.chunk.css.map",
+    "static/css/main.e579cc67.chunk.css.map": "/act-of-benevolence/static/css/main.e579cc67.chunk.css.map",
+    "static/js/2.06e458e9.chunk.js.LICENSE.txt": "/act-of-benevolence/static/js/2.06e458e9.chunk.js.LICENSE.txt",
     "static/media/Onanightout_Product.jpg": "/act-of-benevolence/static/media/Onanightout_Product.2ddb1ad5.jpg",
     "static/media/logo.aedd1988.png": "/act-of-benevolence/static/media/logo.aedd1988.png",
     "static/media/Home.scss": "/act-of-benevolence/static/media/tshirts.058a5675.jpg",
@@ -47,9 +49,10 @@
     "static/media/yallah_1.jpg": "/act-of-benevolence/static/media/yallah_1.8f385d2e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.88ed242c.js",
-    "static/js/2.34b9dc17.chunk.js",
-    "static/css/main.ba2a0307.chunk.css",
-    "static/js/main.8be65adf.chunk.js"
+    "static/js/runtime-main.2c6665b5.js",
+    "static/css/2.4ce9e501.chunk.css",
+    "static/js/2.06e458e9.chunk.js",
+    "static/css/main.e579cc67.chunk.css",
+    "static/js/main.97d52adb.chunk.js"
   ]
 }
