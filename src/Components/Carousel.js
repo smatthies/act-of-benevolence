@@ -10,10 +10,10 @@ const createCarouselItemImage = (src) => (
 
 const Carousel = (props) => {
   const { images } = props;
-  console.log(images);
+
   const baseChildren = images.map((x) => createCarouselItemImage(x));
   return (
-    <CC autoPlay dynamicHeight={false} showThumbs={false} showStatus={false}>
+    <CC autoPlay dynamicHeight={true} showThumbs={false} showStatus={false}>
       {baseChildren}
     </CC>
   );
