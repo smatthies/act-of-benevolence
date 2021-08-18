@@ -81,6 +81,9 @@
         {
             "id": "testEvent3",
             "date":"23-12-2020"
+        },{
+            "id": "SeptemberEvent",
+            "date":"23-12-2020"
         }
-    ]
+    ]   
 }
